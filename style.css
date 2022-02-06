@@ -1,0 +1,256 @@
+
+body{
+
+    height: 100%;
+    margin: 0;
+   
+    
+
+}
+main{
+    margin: 0 auto;
+    width: 1320px;
+    height: 1500px;
+}
+
+       
+
+
+header{
+    width: 100%;
+    background-color: rgb(32, 34, 32);
+    display: none;
+}
+.headercenter{
+    box-sizing: border-box;
+    width: 1320px;
+    margin: 0 auto;
+}
+.header{
+    
+    margin: 0 auto;
+    width: 1320px;
+    height: 150px;
+}
+.header h2{
+   color: honeydew;
+   font-family: sans-serif;
+   margin: 0;
+   padding: 30px 0 0 0;
+}
+.header p{
+    color: rgb(82, 79, 79);
+    font-family: sans-serif;
+    margin: 0;
+}
+.about{
+    box-sizing: border-box;
+    float: left;
+}
+.contact{
+    box-sizing: border-box;
+    float: left;
+    margin-left: 70px;
+    font-family: sans-serif;
+    color: white;
+
+}
+.contact li{
+    list-style: none;
+   
+}
+.contact a{
+    color: white;
+}
+.contact h4{
+  margin-left: 40px;
+
+}
+
+.plass{
+    background-color: rgb(32, 34, 32);
+    width: 100%;
+    height: 125px;
+    
+}
+.plass1{
+    width: 1320px;
+    margin: 0 auto;
+    padding-top: 35px;
+    
+    
+}
+.plass2 img{
+    width: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0;
+
+    
+}
+.plass3 img{
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+   
+
+}
+.plass3{
+    box-sizing: border-box;
+    float: right;
+    margin-bottom: 30px;
+    margin-top: -25px;
+    
+
+}
+.plass2 h4{
+  
+    font-family: sans-serif;
+    color: white;
+    
+   
+}
+.plass2{
+    width: 90px;
+   
+    
+ 
+    
+}
+
+    
+.button:hover,
+.button1,
+.button2
+ {
+ cursor: pointer;
+
+}
+
+.button{
+text-align: center;
+padding: 0 0 150px 0;
+}
+
+ 
+
+.button1 {
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    background-color: rgb(51, 18, 194);
+    border-radius: 5px;
+    color: rgb(211, 212, 219);
+    font-family: sans-serif;
+    
+}
+.button2{
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    background-color: rgb(128, 128, 128);
+    border-radius: 5px;
+    color: honeydew;
+    font-family: sans-serif;
+}
+.button1:focus {
+    box-shadow: 0px 0px 0px 5px rgba(43, 65, 83, 0.301);
+    background-color: rgb(15, 17, 150);
+  }
+  .button2:focus {
+    box-shadow: 0px 0px 0px 5px rgba(43, 65, 83, 0.301);
+    background-color: rgb(75, 74, 78);
+  }
+ 
+  .album  h1{
+      text-align: center;
+      margin-top: 70px;
+  }
+  .album p{
+      text-align: center;
+  }
+  .box1{
+    
+      padding: -5px 0 0 0;
+      box-sizing: border-box;
+     
+  }
+  .Thumbnail{
+       margin: 0 auto;
+      width: 365px;
+      height: 345px;
+      box-sizing: border-box;
+      background-color: rgb(250, 241, 241);
+      border-radius: 5px;
+      float: left;
+      margin: 5px;
+  }
+  .box{
+     width: 100%;
+     background-color: rgb(255, 247, 247);
+     margin: 0 0 0 100px;
+
+ 
+   
+  }
+
+  .thumb{
+    text-align: center;
+    width: 359px;
+    height: 125px;
+    background-color: rgb(104, 107, 104);
+    color: ivory;
+    font-family: sans-serif;
+    margin: 3px ;
+    border-radius: 5px;
+    padding: 100px 0 0 0;
+    
+  }
+.mins{
+    box-sizing: border-box;
+    float: left;
+    margin: -15px 10px 20px 300px;
+    color: rgb(0, 0, 0);
+    opacity: 0.8;
+}
+.para{
+    margin: 10px 0 0 10px;
+}
+.button34{
+    margin: 20px 0 0 10px;
+
+}
+.button3{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px 0 0 5px;
+}
+.button4{
+cursor: pointer;
+background-color: rgb(255, 255, 255);
+margin-left: -7px;
+border-radius: 0 5px 5px 0;
+}
+.button3:focus {
+    box-shadow: 0px 0px 0px 5px rgba(43, 65, 83, 0.301);
+    background-color: rgb(75, 74, 78);
+}
+
+.button4:focus {
+    box-shadow: 0px 0px 0px 5px rgba(43, 65, 83, 0.301);
+    background-color: rgb(75, 74, 78);
+  
+}
+
+.cont{
+    box-sizing: border-box;
+    float: left;
+}
+footer{
+    font-size: 20px;
+    font-family: sans-serif;
+     text-align: left;
+    width: 1320px;
+    margin: 0 auto;
+}
+.backtop{
+    float: right;
+}
